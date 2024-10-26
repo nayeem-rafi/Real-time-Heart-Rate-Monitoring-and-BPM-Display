@@ -1,0 +1,2 @@
+# Real-time Heart Rate Monitoring and BPM Display
+ This project develops a practical and affordable heartbeat reader with BPM counter using commonly available components. It features a microphone, amplifier, and low-pass filter for signal processing, a 7-segment display for real-time BPM display, and a counter for accurate heart rate measurement. It’s ideal for health monitoring in clinical, fitness, and research applications.
