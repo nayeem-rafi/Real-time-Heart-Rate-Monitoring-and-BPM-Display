@@ -64,7 +64,7 @@ The simulation demonstrates the device’s accurate pulse detection, amplificati
 
 ## 6. Hardware Implementation
 
-The hardware implementation includes all major components arranged on a veroboard for easy construction. Images of the final build can be referenced in the [Hardware Implementation](#hardware-implementation) section.
+The hardware implementation includes all major components arranged on a veroboard for easy construction. Images of the final build can be referenced in the Document Report section.
 
 ## 7. Application Areas and Limitations
 
